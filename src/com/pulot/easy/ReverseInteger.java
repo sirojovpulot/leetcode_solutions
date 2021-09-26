@@ -1,4 +1,4 @@
-package ai.ecma.easy;
+package com.pulot.easy;
 
 public class ReverseInteger {
     public int reverse(int x) {

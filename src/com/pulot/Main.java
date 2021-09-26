@@ -1,7 +1,6 @@
-package ai.ecma;
+package com.pulot;
 
-import ai.ecma.easy.ReverseInteger;
-import ai.ecma.easy.TwoSum;
+import com.pulot.easy.ReverseInteger;
 
 import java.util.Arrays;
 
